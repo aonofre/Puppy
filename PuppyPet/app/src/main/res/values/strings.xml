@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PuppyPet</string>
+    <string name="large_text">
+        "Material Design.\n\n"
+
+        "Este es un ejemplo de Material Design.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
